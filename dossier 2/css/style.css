@@ -1,0 +1,34 @@
+
+@import url("font-family: 'Poppins', sans-serif;");
+@import url("components/card.css");
+@import url("components/banner.css");
+
+
+body{
+	
+	font-family: 'Poppins', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+	background-color: #FFE8DE;
+
+}
+
+h1{
+	
+	font-family: 'Anton', sans-serif;
+	font-weight: bolder;
+	color: white;
+	text-align: center;
+	font-size: 50px;
+	letter-spacing: 7px;
+}
+
+a{
+	text-decoration: none;
+}
+
+h2{
+	
+	font-family: 'Poppins', sans-serif;
+	font-size: 14px;
+}
